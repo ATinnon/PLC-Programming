@@ -51,7 +51,7 @@ See codesys version below......
 
 ## Exercise 6 (RSLogix 500 pro)
 
-Create a program that correctly accounts for any sensor bounce on input I:0.0 on PLC 141.225.164.170. Be able to correctly count 4 drops of the paddle/bar.
+Create a program that correctly accounts for any sensor bounce on input I:0.0. Be able to correctly count 4 drops of the paddle/bar.
 
 <img width="1287" height="438" alt="image" src="https://github.com/user-attachments/assets/5698e75c-214e-4586-9df5-f75d9967f08c" />
 
@@ -63,7 +63,7 @@ Create a program that correctly accounts for any sensor bounce on input I:0.0 on
 
 ## Exercise 7 (RSLogix 500 pro)
 
-Create a program on PLC 141.225.160.139, that includes anti-tie-down logic, where both buttons must be pressed for 4 seconds before turning on B3:0/0.
+Create a program that includes anti-tie-down logic, where both buttons must be pressed for 4 seconds before turning on B3:0/0.
 
 <img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/6cd384df-4b2e-49fd-ac48-93de6cde7149" />
 <img width="1377" height="363" alt="image" src="https://github.com/user-attachments/assets/0d4a9913-0342-4df9-a113-671f28ae0f8d" />
@@ -140,7 +140,7 @@ Create a program that requires a single bit (B3:0/0) to be turned on for 4 secon
 
 ## Exercise 6 (Codesys)
 
-Create a program that correctly accounts for any sensor bounce on input I:0.0 on PLC 141.225.164.170. Be able to correctly count 4 drops of the paddle/bar.
+Create a program that correctly accounts for any sensor bounce on input I:0/0. Be able to correctly count 4 drops of the paddle/bar.
 
 <img width="951" height="514" alt="image" src="https://github.com/user-attachments/assets/0daac776-28cb-434d-b454-3d7737a1ee1d" />
 
@@ -152,7 +152,7 @@ Create a program that correctly accounts for any sensor bounce on input I:0.0 on
 
 ## Exercise 7 (Codesys)
 
-Create a program on PLC 141.225.160.139, that includes anti-tie-down logic, where both buttons must be pressed for 4 seconds before turning on B3:0/0.
+Create a program that includes anti-tie-down logic, where both buttons must be pressed for 4 seconds before turning on B3:0/0.
 
 <img width="948" height="873" alt="image" src="https://github.com/user-attachments/assets/28395ec5-7967-4c41-bae5-4bc6cdbdd4cc" />
 
